@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\admin\source\repos\finalprojectopengl\finalprojectopengl\main.cpp(184): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+  finalprojectOPENGL.vcxproj -> C:\Users\Admin\source\repos\finalprojectOPENGL\Release\finalprojectOPENGL.exe
